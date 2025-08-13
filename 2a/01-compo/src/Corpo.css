@@ -1,0 +1,5 @@
+.corpo-conteiner{
+    background-color: rgb(136, 135, 135);
+    min-height: calc(100vh - 70px);
+    
+}
