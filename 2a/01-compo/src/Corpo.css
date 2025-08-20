@@ -3,3 +3,8 @@
     min-height: calc(100vh - 70px);
     
 }
+.imagem-corpo{
+    width: 340px;
+    height: 270px;
+    border-radius: 50px;
+}
