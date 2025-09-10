@@ -1,0 +1,15 @@
+.aviso-conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: #292929 ;
+    border-radius: 10px;
+    width: 65vh;
+    height: 40vh;
+    margin-left: 50px;
+    margin-top: 20px;
+    color: white;
+    
+    
+}

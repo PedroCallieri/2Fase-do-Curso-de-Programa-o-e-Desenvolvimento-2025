@@ -1,0 +1,14 @@
+.conversor-conteiner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #292929 ;
+    border-radius: 10px;
+    width: 45vh;
+    height:80vh;
+    margin-left: 50px;
+    margin-top: 10px;
+    color: white;
+}
